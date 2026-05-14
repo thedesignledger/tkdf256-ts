@@ -1,6 +1,6 @@
 {
   "name": "tkdf256",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Canonical reference implementation of TKDF-256 for CTP/IP",
   "author": "Erico Lisboa (Design Ledger Pty Ltd, ABN 50 669 856 339)",
