@@ -25,7 +25,8 @@ console.log(result); // c8041da8bbde4afe00906e6d0efb64300f90d2755b92b7835a736281
 ## License
 
 CC-BY-NC 4.0  
-Author: Erico Lisboa, Genesis Architect  
+Author: [E.L] ΔΣ₀Γ,CTP/IP Architect  
 Entity: Design Ledger Pty Ltd, ABN 50 669 856 339  
-Contact: designledger.co  
-Commercial use: licensed through Design Ledger Pty Ltd.
+Contact: contact@designledger.co  
+Commercial use: licensed through Design Ledger Pty Ltd.  
+www.time.foundation | www.designledger.co

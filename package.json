@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "type": "module",
   "description": "Canonical reference implementation of TKDF-256 for CTP/IP",
-  "author": "Erico Lisboa (Design Ledger Pty Ltd, ABN 50 669 856 339)",
+  "author": "[E.L] ΔΣ₀Γ,CTP/IP Architect (Design Ledger Pty Ltd, ABN 50 669 856 339)",
   "license": "CC-BY-NC-4.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
